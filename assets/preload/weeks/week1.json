@@ -1,0 +1,25 @@
+{
+	"storyName": "Vs Mabel",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "week1",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tension",
+			"mabel",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Week 1"
+}
